@@ -5,7 +5,7 @@ I tried building a website that works exactly like YouTube. I used MaterialUI co
 ## Steps to build the project locally
 
 
-* `git clone https://github.com/rk47-coder/youtube_clone.git`
-* `cd youtube_clone`
-* `npm i`
-* `npm start`
+- git clone https://github.com/rk47-coder/youtube_clone.git
+- `cd youtube_clone`
+- `npm i`
+- `npm start`
